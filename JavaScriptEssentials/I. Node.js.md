@@ -235,7 +235,6 @@ Server running at http://localhost:1234
 > * parcel: 로컬 환경에서 개발용으로 프로젝트를 열어 확인하는 것
 > * parcel build: 사용자가 보는 브라우저 화면을 확인하는 것
 
-
 ```terminal
 npm run build
 
